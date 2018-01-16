@@ -51,7 +51,7 @@ input[type=text], input[type=password], input[type=email], input:not([type]), se
     border-bottom-color: #000;
 }
 #global-menu li.selected a {
-    color: #0080ff !important;
+    color: #ff91f9 !important;
 }
 .follow-done-button:after {
     content: 'ing';
